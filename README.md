@@ -1,4 +1,4 @@
 # React Hot or Cold with testing
-New entry
+another entry
 
 [GitHub](https://github.com/Thinkful-Ed/react-hot-cold-testing)
